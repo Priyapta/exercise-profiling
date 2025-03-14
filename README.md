@@ -27,19 +27,49 @@
 
 ## Jmeter Using CMD
 before optimize:
-![after_txt](https://github.com/user-attachments/assets/ddbefe48-31a6-404f-bbeb-5d2408286cfe)
+![](https://github.com/user-attachments/assets/ddbefe48-31a6-404f-bbeb-5d2408286cfe)
 after optimize:
 ![image](https://github.com/user-attachments/assets/b3fc6c42-308f-4b7b-9f91-433b00f850fe)
 
 before optimize:
-![Screenshot 2025-03-14 154622](https://github.com/user-attachments/assets/eac81646-98be-49d6-9cb2-92fdb1101dff)
+![before](https://github.com/user-attachments/assets/a3afdd21-9369-4f92-a873-c49910cd848b)
+
 
 after optimize:
 ![highest gpa after](https://github.com/user-attachments/assets/8cc88349-a76b-4d55-8e93-077b8dda87b8)
 
 before optimize:
+![image](https://github.com/user-attachments/assets/a137d8e7-a4c4-45c5-ac24-b4508452e2ca)
 
 after optimize
+![image](https://github.com/user-attachments/assets/8099682b-db47-47de-bbe1-7fa227c1f739)
+
+## all-student-name Test:
+before:
+![Screenshot 2025-03-13 120030](https://github.com/user-attachments/assets/de0f86f4-fae5-404d-9554-147d0451d2fa)
+after:
+![after_student _name](https://github.com/user-attachments/assets/fcbdacfd-8d62-4239-a8cd-8db393ac51ec)
+
+## highest GPA
+before:
+![image](https://github.com/user-attachments/assets/38bb860f-0ea5-481b-87ce-9ab057c0b72f)
+
+after:
+![image](https://github.com/user-attachments/assets/4fd663cc-5a10-4c28-9ef7-183cda32697b)
+
+## all-student request:
+before:
+![Screenshot 2025-03-13 062210](https://github.com/user-attachments/assets/b462faed-99d3-45b4-855d-24be1d03bcf4)
+after:
+![after_apache](https://github.com/user-attachments/assets/3c7f0310-f509-4dea-909e-d7ceae257959)
+
+
+
+
+
+
+
+
 
 
 
