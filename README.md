@@ -32,9 +32,14 @@ after optimize:
 ![image](https://github.com/user-attachments/assets/b3fc6c42-308f-4b7b-9f91-433b00f850fe)
 
 before optimize:
+![Screenshot 2025-03-14 154622](https://github.com/user-attachments/assets/eac81646-98be-49d6-9cb2-92fdb1101dff)
 
 after optimize:
 ![highest gpa after](https://github.com/user-attachments/assets/8cc88349-a76b-4d55-8e93-077b8dda87b8)
+
+before optimize:
+
+after optimize
 
 
 
